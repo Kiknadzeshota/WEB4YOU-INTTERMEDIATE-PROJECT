@@ -1046,6 +1046,16 @@ footer .div-footer ul li a i {
   footer ul {
     padding: 0px;
   }
+  .section-3 .col-md-12 form {
+    left: 50%;
+    top: 25px;
+    margin-top: 30px;
+    right: 0;
+    transform: translatex(-50%);
+  }
+  .section-3 .col-md-6 {
+    margin-top: 25px;
+  }
 }
 @media screen and (max-width: 786px) {
   .top-header .col-md-6 div {
